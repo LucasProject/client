@@ -10,5 +10,6 @@ export class AppComponent {
 
     buttonClick() {
         this.showAlert = !this.showAlert;
+        // add some comment
     }
 }
